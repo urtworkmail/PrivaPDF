@@ -33,21 +33,6 @@ All processing happens locally. No server. No API keys.
 
 MIT License. Fork it, improve it, self-host it.
 
-## Traffic Driver Strategy
-
-1. SEO keywords: "free pdf merge offline", "compress pdf no upload", "pdf to jpg privacy"
-2. Post on Product Hunt, Hacker News, Reddit r/webdev
-3. Add to awesome-selfhosted lists
-4. Translate UI (Urdu, Hindi, Spanish) – huge underserved markets
-5. Add PWA support for installable app
-
-## Deploy in 2 minutes
-
-1. Create GitHub repo: `privapdf`
-2. Upload `index.html`
-3. Settings → Pages → Deploy from main branch
-4. Done: https://yourusername.github.io/privapdf
-
 ---
 
 Built for the world, from Islamabad. 🌍
