@@ -5,7 +5,9 @@
 PrivaPDF is a complete PDF toolkit that runs **entirely in your browser**. Unlike iLovePDF (217M visits/month) and Smallpdf, nothing ever leaves your computer.
 
 ---
-Free Web Interface: https://urtworkmail.github.io/PrivaPDF/
+
+🏷️Free Web Interface: https://urtworkmail.github.io/PrivaPDF/
+
 ---
 
 ## Why the world needs this
