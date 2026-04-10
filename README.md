@@ -6,7 +6,7 @@ PrivaPDF is a complete PDF toolkit that runs **entirely in your browser**. Unlik
 
 ---
 
-🏷️Free Web Interface: https://urtworkmail.github.io/PrivaPDF/
+🏷️ Free Web Interface: https://urtworkmail.github.io/PrivaPDF/
 
 ---
 
